@@ -1,0 +1,8 @@
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\obj\Debug\pemrograman class dan object 4.csproj.AssemblyReference.cache
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\obj\Debug\pemrograman class dan object 4.csproj.SuggestedBindingRedirects.cache
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\obj\Debug\pemrograman class dan object 4.csproj.CoreCompileInputs.cache
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\bin\Debug\pemrograman class dan object 4.exe.config
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\bin\Debug\pemrograman class dan object 4.exe
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\bin\Debug\pemrograman class dan object 4.pdb
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\obj\Debug\pemrograman class dan object 4.exe
+E:\DOKUMEN\KODING AJI\pemrograman class dan object 4\pemrograman class dan object 4\obj\Debug\pemrograman class dan object 4.pdb
